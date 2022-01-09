@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArtemG91
+- 👋 Hi, I’m Artem!
 - 👀 I’m interested in Aerospace, Fluid Dynamics, AI, Digitalisation and Automation.
 - 🌱 I’m currently learning Python and AWS. 
 - 💞️ I’m looking to collaborate on general efficiency increase and pushing the boundaries of air mobility.
